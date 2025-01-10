@@ -2,7 +2,7 @@
 
 **Evidenciando as necessidades dos Stakeholders.**
 
-**Aluno**: Franciel Marques Fagundes  
+**Aluno**: ismael dos santos mota 
 **Disciplina**: Database Modeling & SQL
 
 ---
