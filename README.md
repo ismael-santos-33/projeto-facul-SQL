@@ -2,7 +2,7 @@
 
 **Entrevista com Stakeholder e Evidenciação das Informações Obtidas.**
 
-**Aluno**: Franciel Marques Fagundes  
+**Aluno**: ismael dos santos mota
 **Disciplina**: Database Modeling & SQL
 
 ---
